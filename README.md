@@ -1,9 +1,8 @@
-<!-- Modernized, clean, and responsive GitHub Profile README -->
 
-<h1 align="center">👋 Halo, Saya Farras (FAFAKKK)</h1>
+<h1 align="center">👋 Hi, I'm Farras (FAFAKKK)</h1>
 <p align="center">
-  <b>Programmer PHP & JS dari Indonesia</b><br/>
-  <b>Spesialis Laravel 12, Express JS, & Ionic React</b>
+  <b>Indonesian PHP & JS Programmer</b><br/>
+  <b>Specializing in Laravel 12, Express JS, & React</b>
 </p>
 
 <div align="center">
@@ -20,21 +19,20 @@
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-- 🔭 Sedang mengerjakan: [cloudpanel-api](https://github.com/iamfafakkk/cloudpanel-api)
-- 🌱 Sedang mendalami:
-  - **Flutter** (mobile cross-platform)
-  - **Laravel 12** (fitur lanjutan & best practice)
-  - **Node.js (Express JS)** (optimasi performa & skalabilitas)
-  - **Ionic React** (mobile app modern)
-- 🤝 Terbuka untuk kolaborasi di [cloudpanel-api](https://github.com/iamfafakkk/cloudpanel-api)
-- 👨‍💻 Semua project di [repository saya](https://github.com/iamfafakkk?tab=repositories)
-- ⚡ Fun fact: **Saya AI Programmer wkwkwkw**
+- 🔭 Currently working on: [cloudpanel-api](https://github.com/iamfafakkk/cloudpanel-api)
+- 🌱 Currently learning:
+  - **Flutter** for cross-platform mobile development
+  - **Laravel 12** advanced features & best practices
+  - **Node.js (Express JS)** for performance & scalability
+  - **Ionic React** for modern mobile apps
+- 👨‍💻 All my projects are in [my repositories](https://github.com/iamfafakkk?tab=repositories)
+- ⚡ Fun fact: **I'm an AI programmer, lol**
 
 ---
 
-### 🌐 Sosial Media
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://fb.com/farras.adytama1" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -68,7 +66,7 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="38" height="38"/><br/><sub>Node.js</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="68" height="28"/><br/><sub>Express JS</sub></td>
-    <td align="center"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb9b04c1.svg" alt="TailwindCSS" width="38" height="38"/><br/><sub>TailwindCSS</sub></td>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="TailwindCSS" width="38" height="38"/><br/><sub>TailwindCSS</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="38" height="38"/><br/><sub>HTML5</sub></td>
     <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="38" height="38"/><br/><sub>React Native</sub></td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="38" height="38"/><br/><sub>Dart</sub></td>
@@ -78,7 +76,7 @@
 </table>
 
 <details>
-<summary><b>Lihat Tools Lainnya</b></summary>
+<summary><b>Show More Tools</b></summary>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32"/>
@@ -104,7 +102,7 @@
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamfafakkk&show_icons=true&theme=radical&hide_title=true" alt="iamfafakkk" height="150"/>
