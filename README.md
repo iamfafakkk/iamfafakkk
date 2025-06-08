@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [cloudpanel-api](https://github.com/iamfafakkk/cloudpanel-api)
 
-- 👨‍💻 All of my projects are available at [https://github.com/iamfafakkk/iamfafakkk](https://github.com/iamfafakkk/iamfafakkk)
+- 👨‍💻 All of my projects are available at [https://github.com/iamfafakkk?tab=repositories)
 
 - ⚡ Fun fact **I'm AI programer wkwkwkw**
 
